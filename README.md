@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors, Lizard, Spock
+# Play Rock, Paper, Scissors, Lizard, Spock
 ### By Folami
 
 ## Background
